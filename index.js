@@ -1,7 +1,6 @@
 var animal = 'dog'
 
 function myAnimal() {
-  if(animal <= )
   return animal
 }
 
