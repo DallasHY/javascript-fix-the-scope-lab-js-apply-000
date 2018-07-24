@@ -1,7 +1,7 @@
 var animal = ''
 
 function myAnimal() {
-  if(myAnimal )
+  if(animal <= )
   return animal
 }
 
